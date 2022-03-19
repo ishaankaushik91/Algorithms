@@ -34,3 +34,6 @@ Problems :
 33. Inserting all elements of array2 in array1 at random index 
 34. Inserting all elements of matrix2 in matrix1 at random index 
 35. Making random index of a matrix a forced prime array
+36. Making frequency of all primes a prime
+37. Keep inserting same number in array at random index until frequency is equal to the number
+38. Keep inserting same number in matrix at random position until frequency is equal to number
