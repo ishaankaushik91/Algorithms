@@ -37,3 +37,5 @@ Problems :
 36. Making frequency of all primes a prime
 37. Keep inserting same number in array at random index until frequency is equal to the number
 38. Keep inserting same number in matrix at random position until frequency is equal to number
+39. Element with highest frequency in a matrix
+40. Largest element in each row of a matrix
