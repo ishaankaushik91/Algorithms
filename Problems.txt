@@ -39,3 +39,6 @@ Problems :
 38. Keep inserting same number in matrix at random position until frequency is equal to number
 39. Element with highest frequency in a matrix
 40. Largest element in each row of a matrix
+41. Insert a row in a matrix
+42. Summation of all frequencies in an array
+43. Summation of all frequencies in a matrix
