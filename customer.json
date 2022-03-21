@@ -1,0 +1,14 @@
+[
+    {
+      "customer_ID" : "Something",
+      "customerName" : "Name",
+      "email" : "email",
+      "phone" : "phone",
+      "password" : "jhschws(*",
+      "dob" : "DOB",
+      "acc. no." : "null",
+      "branch code" : "Null",
+      "branch name" : "null",
+      "address" : "address"
+    }
+]
