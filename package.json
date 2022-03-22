@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ishaankaushik91/Algorithms#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "nodemailer": "^6.7.3"
   }
 }

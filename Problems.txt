@@ -42,3 +42,4 @@ Problems :
 41. Insert a row in a matrix
 42. Summation of all frequencies in an array
 43. Summation of all frequencies in a matrix
+44. Add row 1 of matrix1 with last row of matrix2 and so on
