@@ -43,3 +43,6 @@ Problems :
 42. Summation of all frequencies in an array
 43. Summation of all frequencies in a matrix
 44. Add row 1 of matrix1 with last row of matrix2 and so on
+45. Filtering out all numbers from a string
+46. Finding largest duplicate in array 
+47. Finding largest duplicate in matrix
