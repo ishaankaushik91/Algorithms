@@ -46,3 +46,5 @@ Problems :
 45. Filtering out all numbers from a string
 46. Finding largest duplicate in array 
 47. Finding largest duplicate in matrix
+48. Summation of every 2nd duplicate in an array
+49. Summation of every 2nd duplicate element in a matrix
