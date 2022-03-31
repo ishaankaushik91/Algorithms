@@ -50,3 +50,6 @@ Problems :
 49. Summation of every 2nd duplicate element in a matrix
 50. Adding 2 Primes then subtracting the next from the sum in a range
 51. All pre prime of each elements in array
+52. Summation of all 2 digit numbers in array
+53. Summation of all 2 digit numbers in a Matrix
+54. Matrix traversal without a single loop
