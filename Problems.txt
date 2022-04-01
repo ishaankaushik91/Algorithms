@@ -53,3 +53,4 @@ Problems :
 52. Summation of all 2 digit numbers in array
 53. Summation of all 2 digit numbers in a Matrix
 54. Matrix traversal without a single loop
+55. Check wether a number is power of some other number
