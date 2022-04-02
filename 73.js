@@ -1,4 +1,4 @@
-// Storing pattern in array (RECURSION)Pattern(0, 0, "", array);
+// Storing pattern in array (RECURSION)
 Pattern(0, 0, "", []);
 
 function Pattern(start, middle, str, array)
